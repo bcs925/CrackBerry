@@ -1,0 +1,1 @@
+include (../FlipView.pro)
